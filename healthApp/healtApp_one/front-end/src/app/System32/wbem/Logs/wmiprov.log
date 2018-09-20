@@ -1,0 +1,249 @@
+(Sat Jul 21 13:17:05 2018.246639984) : 
+(Sat Jul 21 13:17:05 2018.246640000) : Tried to delete instance but couldn't, return code: 0x80041003 for instance: 
+ (Sat Jul 21 13:17:05 2018.246640000) : WDMClassesOfDriver.ClassName="TcpIp_V1_Send",Driver="C:\\WINDOWS\\system32\\en-US\\kernelbase.dll.mui[MofResourceName]",HighDateTime=30659180,LowDateTime=3195603434(Sat Jul 21 13:17:05 2018.246640000) : 
+(Sat Jul 21 13:17:05 2018.246640000) : Tried to delete instance but couldn't, return code: 0x80041003 for instance: 
+ (Sat Jul 21 13:17:05 2018.246640000) : WDMClassesOfDriver.ClassName="FltIoCompletion",Driver="C:\\WINDOWS\\system32\\en-US\\kernelbase.dll.mui[MofResourceName]",HighDateTime=30659180,LowDateTime=3195603434(Sat Jul 21 13:17:05 2018.246640000) : 
+(Sat Jul 21 13:17:05 2018.246640015) : Tried to delete instance but couldn't, return code: 0x80041003 for instance: 
+ (Sat Jul 21 13:17:05 2018.246640015) : WDMClassesOfDriver.ClassName="MSNdis_ReceiveFilterFieldParameters",Driver="C:\\WINDOWS\\system32\\en-US\\kernelbase.dll.mui[MofResourceName]",HighDateTime=30659180,LowDateTime=3195603434(Sat Jul 21 13:17:05 2018.246640015) : 
+(Sat Jul 21 13:17:05 2018.246640031) : Tried to delete instance but couldn't, return code: 0x80041003 for instance: 
+ (Sat Jul 21 13:17:05 2018.246640031) : WDMClassesOfDriver.ClassName="DriverCompleteRequest",Driver="C:\\WINDOWS\\system32\\en-US\\kernelbase.dll.mui[MofResourceName]",HighDateTime=30659180,LowDateTime=3195603434(Sat Jul 21 13:17:05 2018.246640031) : 
+(Sat Jul 21 13:17:05 2018.246640046) : Tried to delete instance but couldn't, return code: 0x80041003 for instance: 
+ (Sat Jul 21 13:17:05 2018.246640046) : WDMClassesOfDriver.ClassName="MSNdis_80211_InfrastructureMode",Driver="C:\\WINDOWS\\system32\\en-US\\kernelbase.dll.mui[MofResourceName]",HighDateTime=30659180,LowDateTime=3195603434(Sat Jul 21 13:17:05 2018.246640046) : 
+(Sat Jul 21 13:17:05 2018.246640046) : Tried to delete instance but couldn't, return code: 0x80041003 for instance: 
+ (Sat Jul 21 13:17:05 2018.246640046) : WDMClassesOfDriver.ClassName="TP_V2_CBEnqueue",Driver="C:\\WINDOWS\\system32\\en-US\\kernelbase.dll.mui[MofResourceName]",HighDateTime=30659180,LowDateTime=3195603434(Sat Jul 21 13:17:05 2018.246640046) : 
+(Sat Jul 21 13:17:05 2018.246640062) : Tried to delete instance but couldn't, return code: 0x80041003 for instance: 
+ (Sat Jul 21 13:17:05 2018.246640062) : WDMClassesOfDriver.ClassName="SystemConfig_V1_LogDisk",Driver="C:\\WINDOWS\\system32\\en-US\\kernelbase.dll.mui[MofResourceName]",HighDateTime=30659180,LowDateTime=3195603434(Sat Jul 21 13:17:05 2018.246640062) : 
+(Sat Jul 21 13:17:05 2018.246640062) : Tried to delete instance but couldn't, return code: 0x80041003 for instance: 
+ (Sat Jul 21 13:17:05 2018.246640062) : WDMClassesOfDriver.ClassName="PerfInfo_V2",Driver="C:\\WINDOWS\\system32\\en-US\\kernelbase.dll.mui[MofResourceName]",HighDateTime=30659180,LowDateTime=3195603434(Sat Jul 21 13:17:05 2018.246640062) : 
+(Sat Jul 21 13:17:05 2018.246640078) : Tried to delete instance but couldn't, return code: 0x80041003 for instance: 
+ (Sat Jul 21 13:17:05 2018.246640078) : WDMClassesOfDriver.ClassName="WmiMonitorBrightness",Driver="C:\\WINDOWS\\system32\\en-US\\kernelbase.dll.mui[MofResourceName]",HighDateTime=30659180,LowDateTime=3195603434(Sat Jul 21 13:17:05 2018.246640078) : 
+(Sat Jul 21 13:17:05 2018.246640093) : Tried to delete instance but couldn't, return code: 0x80041003 for instance: 
+ (Sat Jul 21 13:17:05 2018.246640093) : WDMClassesOfDriver.ClassName="Header_Extension_V1_TypeGroup",Driver="C:\\WINDOWS\\system32\\en-US\\kernelbase.dll.mui[MofResourceName]",HighDateTime=30659180,LowDateTime=3195603434(Sat Jul 21 13:17:05 2018.246640093) : 
+(Sat Jul 21 13:17:05 2018.246640109) : Tried to delete instance but couldn't, return code: 0x80041003 for instance: 
+ (Sat Jul 21 13:17:05 2018.246640109) : WDMClassesOfDriver.ClassName="PageFault_ImageLoadBacked",Driver="C:\\WINDOWS\\system32\\en-US\\kernelbase.dll.mui[MofResourceName]",HighDateTime=30659180,LowDateTime=3195603434(Sat Jul 21 13:17:05 2018.246640109) : 
+(Sat Jul 21 13:17:05 2018.246640109) : Tried to delete instance but couldn't, return code: 0x80041003 for instance: 
+ (Sat Jul 21 13:17:05 2018.246640109) : WDMClassesOfDriver.ClassName="AutoBoostEntryExhaustion",Driver="C:\\WINDOWS\\system32\\en-US\\kernelbase.dll.mui[MofResourceName]",HighDateTime=30659180,LowDateTime=3195603434(Sat Jul 21 13:17:05 2018.246640109) : 
+(Sat Jul 21 13:17:05 2018.246640125) : Tried to delete instance but couldn't, return code: 0x80041003 for instance: 
+ (Sat Jul 21 13:17:05 2018.246640125) : WDMClassesOfDriver.ClassName="MSStorageDriver",Driver="C:\\WINDOWS\\system32\\en-US\\kernelbase.dll.mui[MofResourceName]",HighDateTime=30659180,LowDateTime=3195603434(Sat Jul 21 13:17:05 2018.246640125) : 
+(Sat Jul 21 13:17:05 2018.246640140) : Tried to delete instance but couldn't, return code: 0x80041003 for instance: 
+ (Sat Jul 21 13:17:05 2018.246640140) : WDMClassesOfDriver.ClassName="MSNdis_80211_ReceiveAntennaSelected",Driver="C:\\WINDOWS\\system32\\en-US\\kernelbase.dll.mui[MofResourceName]",HighDateTime=30659180,LowDateTime=3195603434(Sat Jul 21 13:17:05 2018.246640140) : 
+(Sat Jul 21 13:17:05 2018.246640156) : Tried to delete instance but couldn't, return code: 0x80041003 for instance: 
+ (Sat Jul 21 13:17:05 2018.246640156) : WDMClassesOfDriver.ClassName="MuiTrace",Driver="C:\\WINDOWS\\system32\\en-US\\kernelbase.dll.mui[MofResourceName]",HighDateTime=30659180,LowDateTime=3195603434(Sat Jul 21 13:17:05 2018.246640156) : 
+(Sat Jul 21 13:17:05 2018.246640156) : Tried to delete instance but couldn't, return code: 0x80041003 for instance: 
+ (Sat Jul 21 13:17:05 2018.246640156) : WDMClassesOfDriver.ClassName="MSNdis_80211_NetworkInfrastructure",Driver="C:\\WINDOWS\\system32\\en-US\\kernelbase.dll.mui[MofResourceName]",HighDateTime=30659180,LowDateTime=3195603434(Sat Jul 21 13:17:05 2018.246640156) : 
+(Sat Jul 21 13:17:05 2018.246640171) : Tried to delete instance but couldn't, return code: 0x80041003 for instance: 
+ (Sat Jul 21 13:17:05 2018.246640171) : WDMClassesOfDriver.ClassName="WmiMonitorRawEEdidV1Block",Driver="C:\\WINDOWS\\system32\\en-US\\kernelbase.dll.mui[MofResourceName]",HighDateTime=30659180,LowDateTime=3195603434(Sat Jul 21 13:17:05 2018.246640171) : 
+(Sat Jul 21 13:17:05 2018.246640187) : Tried to delete instance but couldn't, return code: 0x80041003 for instance: 
+ (Sat Jul 21 13:17:05 2018.246640187) : WDMClassesOfDriver.ClassName="ReadyThread",Driver="C:\\WINDOWS\\system32\\en-US\\kernelbase.dll.mui[MofResourceName]",HighDateTime=30659180,LowDateTime=3195603434(Sat Jul 21 13:17:05 2018.246640187) : 
+(Sat Jul 21 13:17:05 2018.246640203) : Tried to delete instance but couldn't, return code: 0x80041003 for instance: 
+ (Sat Jul 21 13:17:05 2018.246640203) : WDMClassesOfDriver.ClassName="MSNdis_EthernetMoreTransmitCollisions",Driver="C:\\WINDOWS\\system32\\en-US\\kernelbase.dll.mui[MofResourceName]",HighDateTime=30659180,LowDateTime=3195603434(Sat Jul 21 13:17:05 2018.246640203) : 
+(Sat Jul 21 13:17:05 2018.246640203) : Tried to delete instance but couldn't, return code: 0x80041003 for instance: 
+ (Sat Jul 21 13:17:05 2018.246640203) : WDMClassesOfDriver.ClassName="MSNdis_StatusNetworkChange",Driver="C:\\WINDOWS\\system32\\en-US\\kernelbase.dll.mui[MofResourceName]",HighDateTime=30659180,LowDateTime=3195603434(Sat Jul 21 13:17:05 2018.246640203) : 
+(Sat Jul 21 13:17:05 2018.246640218) : Tried to delete instance but couldn't, return code: 0x80041003 for instance: 
+ (Sat Jul 21 13:17:05 2018.246640218) : WDMClassesOfDriver.ClassName="MSNdis_ReceiveBlockSize",Driver="C:\\WINDOWS\\system32\\en-US\\kernelbase.dll.mui[MofResourceName]",HighDateTime=30659180,LowDateTime=3195603434(Sat Jul 21 13:17:05 2018.246640218) : 
+(Sat Jul 21 13:17:05 2018.246640234) : Tried to delete instance but couldn't, return code: 0x80041003 for instance: 
+ (Sat Jul 21 13:17:05 2018.246640234) : WDMClassesOfDriver.ClassName="MSVerifierIrpLogInformation",Driver="C:\\WINDOWS\\system32\\en-US\\kernelbase.dll.mui[MofResourceName]",HighDateTime=30659180,LowDateTime=3195603434(Sat Jul 21 13:17:05 2018.246640234) : 
+(Sat Jul 21 13:17:05 2018.246640250) : Tried to delete instance but couldn't, return code: 0x80041003 for instance: 
+ (Sat Jul 21 13:17:05 2018.246640250) : WDMClassesOfDriver.ClassName="PerfInfo_V1",Driver="C:\\WINDOWS\\system32\\en-US\\kernelbase.dll.mui[MofResourceName]",HighDateTime=30659180,LowDateTime=3195603434(Sat Jul 21 13:17:05 2018.246640250) : 
+(Sat Jul 21 13:17:05 2018.246640250) : Tried to delete instance but couldn't, return code: 0x80041003 for instance: 
+ (Sat Jul 21 13:17:05 2018.246640250) : WDMClassesOfDriver.ClassName="MSNdis_80211_DesiredDataRates",Driver="C:\\WINDOWS\\system32\\en-US\\kernelbase.dll.mui[MofResourceName]",HighDateTime=30659180,LowDateTime=3195603434(Sat Jul 21 13:17:05 2018.246640250) : 
+(Sat Jul 21 13:17:05 2018.246640265) : Tried to delete instance but couldn't, return code: 0x80041003 for instance: 
+ (Sat Jul 21 13:17:05 2018.246640265) : WDMClassesOfDriver.ClassName="MSNdis_WmiTcpIpChecksumOffload",Driver="C:\\WINDOWS\\system32\\en-US\\kernelbase.dll.mui[MofResourceName]",HighDateTime=30659180,LowDateTime=3195603434(Sat Jul 21 13:17:05 2018.246640265) : 
+(Sat Jul 21 13:17:05 2018.246640281) : Tried to delete instance but couldn't, return code: 0x80041003 for instance: 
+ (Sat Jul 21 13:17:05 2018.246640281) : WDMClassesOfDriver.ClassName="MSTapeDriver",Driver="C:\\WINDOWS\\system32\\en-US\\kernelbase.dll.mui[MofResourceName]",HighDateTime=30659180,LowDateTime=3195603434(Sat Jul 21 13:17:05 2018.246640281) : 
+(Sat Jul 21 13:17:05 2018.246640296) : Tried to delete instance but couldn't, return code: 0x80041003 for instance: 
+ (Sat Jul 21 13:17:05 2018.246640296) : WDMClassesOfDriver.ClassName="MSSmBios_Sysid1394List",Driver="C:\\WINDOWS\\system32\\en-US\\kernelbase.dll.mui[MofResourceName]",HighDateTime=30659180,LowDateTime=3195603434(Sat Jul 21 13:17:05 2018.246640296) : 
+(Sat Jul 21 13:17:05 2018.246640312) : Tried to delete instance but couldn't, return code: 0x80041003 for instance: 
+ (Sat Jul 21 13:17:05 2018.246640312) : WDMClassesOfDriver.ClassName="WnfProvider",Driver="C:\\WINDOWS\\system32\\en-US\\kernelbase.dll.mui[MofResourceName]",HighDateTime=30659180,LowDateTime=3195603434(Sat Jul 21 13:17:05 2018.246640312) : 
+(Sat Jul 21 13:17:05 2018.246640328) : Tried to delete instance but couldn't, return code: 0x80041003 for instance: 
+ (Sat Jul 21 13:17:05 2018.246640328) : WDMClassesOfDriver.ClassName="MSSerial_CommInfo",Driver="C:\\WINDOWS\\system32\\en-US\\kernelbase.dll.mui[MofResourceName]",HighDateTime=30659180,LowDateTime=3195603434(Sat Jul 21 13:17:05 2018.246640328) : 
+(Sat Jul 21 13:17:05 2018.246640343) : Tried to delete instance but couldn't, return code: 0x80041003 for instance: 
+ (Sat Jul 21 13:17:05 2018.246640343) : WDMClassesOfDriver.ClassName="Thread_V0_TypeGroup1",Driver="C:\\WINDOWS\\system32\\en-US\\kernelbase.dll.mui[MofResourceName]",HighDateTime=30659180,LowDateTime=3195603434(Sat Jul 21 13:17:05 2018.246640343) : 
+(Sat Jul 21 13:17:05 2018.246640359) : Tried to delete instance but couldn't, return code: 0x80041003 for instance: 
+ (Sat Jul 21 13:17:05 2018.246640359) : WDMClassesOfDriver.ClassName="MSNdis_ReceiveQueueParameters",Driver="C:\\WINDOWS\\system32\\en-US\\kernelbase.dll.mui[MofResourceName]",HighDateTime=30659180,LowDateTime=3195603434(Sat Jul 21 13:17:05 2018.246640359) : 
+(Sat Jul 21 13:17:05 2018.246640375) : Tried to delete instance but couldn't, return code: 0x80041003 for instance: 
+ (Sat Jul 21 13:17:05 2018.246640375) : WDMClassesOfDriver.ClassName="SystemConfig_V1_IRQ",Driver="C:\\WINDOWS\\system32\\en-US\\kernelbase.dll.mui[MofResourceName]",HighDateTime=30659180,LowDateTime=3195603434(Sat Jul 21 13:17:05 2018.246640375) : 
+(Sat Jul 21 13:17:05 2018.246640375) : Tried to delete instance but couldn't, return code: 0x80041003 for instance: 
+ (Sat Jul 21 13:17:05 2018.246640375) : WDMClassesOfDriver.ClassName="WmiMonitorListedSupportedSourceModes",Driver="C:\\WINDOWS\\system32\\en-US\\kernelbase.dll.mui[MofResourceName]",HighDateTime=30659180,LowDateTime=3195603434(Sat Jul 21 13:17:05 2018.246640375) : 
+(Sat Jul 21 13:17:05 2018.246640390) : Tried to delete instance but couldn't, return code: 0x80041003 for instance: 
+ (Sat Jul 21 13:17:05 2018.246640390) : WDMClassesOfDriver.ClassName="MSNdis_StatusDot11RoamingCompletion",Driver="C:\\WINDOWS\\system32\\en-US\\kernelbase.dll.mui[MofResourceName]",HighDateTime=30659180,LowDateTime=3195603434(Sat Jul 21 13:17:05 2018.246640390) : 
+(Sat Jul 21 13:17:05 2018.246640406) : Tried to delete instance but couldn't, return code: 0x80041003 for instance: 
+ (Sat Jul 21 13:17:05 2018.246640406) : WDMClassesOfDriver.ClassName="MSNdis_80211_RTSThreshold",Driver="C:\\WINDOWS\\system32\\en-US\\kernelbase.dll.mui[MofResourceName]",HighDateTime=30659180,LowDateTime=3195603434(Sat Jul 21 13:17:05 2018.246640406) : 
+(Sat Jul 21 13:17:05 2018.246640421) : Tried to delete instance but couldn't, return code: 0x80041003 for instance: 
+ (Sat Jul 21 13:17:05 2018.246640421) : WDMClassesOfDriver.ClassName="MSNdis_StatusOperationalStatus",Driver="C:\\WINDOWS\\system32\\en-US\\kernelbase.dll.mui[MofResourceName]",HighDateTime=30659180,LowDateTime=3195603434(Sat Jul 21 13:17:05 2018.246640421) : 
+(Sat Jul 21 13:17:05 2018.246640453) : Tried to delete instance but couldn't, return code: 0x80041003 for instance: 
+ (Sat Jul 21 13:17:05 2018.246640453) : WDMClassesOfDriver.ClassName="MSNdis_EnumerateReceiveQueues",Driver="C:\\WINDOWS\\system32\\en-US\\kernelbase.dll.mui[MofResourceName]",HighDateTime=30659180,LowDateTime=3195603434(Sat Jul 21 13:17:05 2018.246640453) : 
+(Sat Jul 21 13:17:05 2018.246640468) : Tried to delete instance but couldn't, return code: 0x80041003 for instance: 
+ (Sat Jul 21 13:17:05 2018.246640468) : WDMClassesOfDriver.ClassName="MSNdis_WmiTcpLargeSendOffloadV1",Driver="C:\\WINDOWS\\system32\\en-US\\kernelbase.dll.mui[MofResourceName]",HighDateTime=30659180,LowDateTime=3195603434(Sat Jul 21 13:17:05 2018.246640468) : 
+(Sat Jul 21 13:17:05 2018.246640484) : Tried to delete instance but couldn't, return code: 0x80041003 for instance: 
+ (Sat Jul 21 13:17:05 2018.246640484) : WDMClassesOfDriver.ClassName="WmiMonitorBrightnessEvent",Driver="C:\\WINDOWS\\system32\\en-US\\kernelbase.dll.mui[MofResourceName]",HighDateTime=30659180,LowDateTime=3195603434(Sat Jul 21 13:17:05 2018.246640484) : 
+(Sat Jul 21 13:17:05 2018.246640484) : Tried to delete instance but couldn't, return code: 0x80041003 for instance: 
+ (Sat Jul 21 13:17:05 2018.246640484) : WDMClassesOfDriver.ClassName="EventTrace_V0_Header",Driver="C:\\WINDOWS\\system32\\en-US\\kernelbase.dll.mui[MofResourceName]",HighDateTime=30659180,LowDateTime=3195603434(Sat Jul 21 13:17:05 2018.246640484) : 
+(Sat Jul 21 13:17:05 2018.246640500) : Tried to delete instance but couldn't, return code: 0x80041003 for instance: 
+ (Sat Jul 21 13:17:05 2018.246640500) : WDMClassesOfDriver.ClassName="RegisteredGuids",Driver="C:\\WINDOWS\\system32\\en-US\\kernelbase.dll.mui[MofResourceName]",HighDateTime=30659180,LowDateTime=3195603434(Sat Jul 21 13:17:05 2018.246640500) : 
+(Sat Jul 21 13:17:05 2018.246640531) : Tried to delete instance but couldn't, return code: 0x80041003 for instance: 
+ (Sat Jul 21 13:17:05 2018.246640531) : WDMClassesOfDriver.ClassName="MSNdis_WmiTcpLargeSendOffloadV2_IPv6",Driver="C:\\WINDOWS\\system32\\en-US\\kernelbase.dll.mui[MofResourceName]",HighDateTime=30659180,LowDateTime=3195603434(Sat Jul 21 13:17:05 2018.246640531) : 
+(Sat Jul 21 13:17:05 2018.246640546) : Tried to delete instance but couldn't, return code: 0x80041003 for instance: 
+ (Sat Jul 21 13:17:05 2018.246640546) : WDMClassesOfDriver.ClassName="MMCSSEvent",Driver="C:\\WINDOWS\\system32\\en-US\\kernelbase.dll.mui[MofResourceName]",HighDateTime=30659180,LowDateTime=3195603434(Sat Jul 21 13:17:05 2018.246640546) : 
+(Sat Jul 21 13:17:05 2018.246640562) : Tried to delete instance but couldn't, return code: 0x80041003 for instance: 
+ (Sat Jul 21 13:17:05 2018.246640562) : WDMClassesOfDriver.ClassName="SystemConfig_V2_LogDisk",Driver="C:\\WINDOWS\\system32\\en-US\\kernelbase.dll.mui[MofResourceName]",HighDateTime=30659180,LowDateTime=3195603434(Sat Jul 21 13:17:05 2018.246640562) : 
+(Sat Jul 21 13:17:05 2018.246640578) : Tried to delete instance but couldn't, return code: 0x80041003 for instance: 
+ (Sat Jul 21 13:17:05 2018.246640578) : WDMClassesOfDriver.ClassName="DiskIo_V1_TypeGroup1",Driver="C:\\WINDOWS\\system32\\en-US\\kernelbase.dll.mui[MofResourceName]",HighDateTime=30659180,LowDateTime=3195603434(Sat Jul 21 13:17:05 2018.246640578) : 
+(Sat Jul 21 13:17:05 2018.246640593) : Tried to delete instance but couldn't, return code: 0x80041003 for instance: 
+ (Sat Jul 21 13:17:05 2018.246640593) : WDMClassesOfDriver.ClassName="MSMCAEvent_SMBIOSError",Driver="C:\\WINDOWS\\system32\\en-US\\kernelbase.dll.mui[MofResourceName]",HighDateTime=30659180,LowDateTime=3195603434(Sat Jul 21 13:17:05 2018.246640593) : 
+(Sat Jul 21 13:17:05 2018.246640593) : Tried to delete instance but couldn't, return code: 0x80041003 for instance: 
+ (Sat Jul 21 13:17:05 2018.246640593) : WDMClassesOfDriver.ClassName="PoolAllocFree",Driver="C:\\WINDOWS\\system32\\en-US\\kernelbase.dll.mui[MofResourceName]",HighDateTime=30659180,LowDateTime=3195603434(Sat Jul 21 13:17:05 2018.246640593) : 
+(Sat Jul 21 13:17:05 2018.246640625) : Tried to delete instance but couldn't, return code: 0x80041003 for instance: 
+ (Sat Jul 21 13:17:05 2018.246640625) : WDMClassesOfDriver.ClassName="ThreadPool",Driver="C:\\WINDOWS\\system32\\en-US\\kernelbase.dll.mui[MofResourceName]",HighDateTime=30659180,LowDateTime=3195603434(Sat Jul 21 13:17:05 2018.246640625) : 
+(Sat Jul 21 13:17:05 2018.246640640) : Tried to delete instance but couldn't, return code: 0x80041003 for instance: 
+ (Sat Jul 21 13:17:05 2018.246640640) : WDMClassesOfDriver.ClassName="MSNdis_FddiLctFailures",Driver="C:\\WINDOWS\\system32\\en-US\\kernelbase.dll.mui[MofResourceName]",HighDateTime=30659180,LowDateTime=3195603434(Sat Jul 21 13:17:05 2018.246640640) : 
+(Sat Jul 21 13:17:05 2018.246640640) : Tried to delete instance but couldn't, return code: 0x80041003 for instance: 
+ (Sat Jul 21 13:17:05 2018.246640640) : WDMClassesOfDriver.ClassName="SystemConfig_V3_PnP",Driver="C:\\WINDOWS\\system32\\en-US\\kernelbase.dll.mui[MofResourceName]",HighDateTime=30659180,LowDateTime=3195603434(Sat Jul 21 13:17:05 2018.246640640) : 
+(Sat Jul 21 13:17:05 2018.246640656) : Tried to delete instance but couldn't, return code: 0x80041003 for instance: 
+ (Sat Jul 21 13:17:05 2018.246640656) : WDMClassesOfDriver.ClassName="WmiMonitorColorXYZinCIE",Driver="C:\\WINDOWS\\system32\\en-US\\kernelbase.dll.mui[MofResourceName]",HighDateTime=30659180,LowDateTime=3195603434(Sat Jul 21 13:17:05 2018.246640656) : 
+(Sat Jul 21 13:17:05 2018.246640671) : Tried to delete instance but couldn't, return code: 0x80041003 for instance: 
+ (Sat Jul 21 13:17:05 2018.246640671) : WDMClassesOfDriver.ClassName="MSNdis_TokenRingPermanentAddress",Driver="C:\\WINDOWS\\system32\\en-US\\kernelbase.dll.mui[MofResourceName]",HighDateTime=30659180,LowDateTime=3195603434(Sat Jul 21 13:17:05 2018.246640671) : 
+(Sat Jul 21 13:17:05 2018.246640687) : Tried to delete instance but couldn't, return code: 0x80041003 for instance: 
+ (Sat Jul 21 13:17:05 2018.246640687) : WDMClassesOfDriver.ClassName="SystemConfig_V2_IDEChannel",Driver="C:\\WINDOWS\\system32\\en-US\\kernelbase.dll.mui[MofResourceName]",HighDateTime=30659180,LowDateTime=3195603434(Sat Jul 21 13:17:05 2018.246640687) : 
+(Sat Jul 21 13:17:05 2018.246640687) : Tried to delete instance but couldn't, return code: 0x80041003 for instance: 
+ (Sat Jul 21 13:17:05 2018.246640687) : WDMClassesOfDriver.ClassName="SampledProfile",Driver="C:\\WINDOWS\\system32\\en-US\\kernelbase.dll.mui[MofResourceName]",HighDateTime=30659180,LowDateTime=3195603434(Sat Jul 21 13:17:05 2018.246640687) : 
+(Sat Jul 21 13:17:05 2018.246640718) : Tried to delete instance but couldn't, return code: 0x80041003 for instance: 
+ (Sat Jul 21 13:17:05 2018.246640718) : WDMClassesOfDriver.ClassName="MSNdis_TokenRingLineErrors",Driver="C:\\WINDOWS\\system32\\en-US\\kernelbase.dll.mui[MofResourceName]",HighDateTime=30659180,LowDateTime=3195603434(Sat Jul 21 13:17:05 2018.246640718) : 
+(Sat Jul 21 13:17:06 2018.246640734) : Tried to delete instance but couldn't, return code: 0x80041003 for instance: 
+ (Sat Jul 21 13:17:06 2018.246640734) : WDMClassesOfDriver.ClassName="TcpIp_Fail",Driver="C:\\WINDOWS\\system32\\en-US\\kernelbase.dll.mui[MofResourceName]",HighDateTime=30659180,LowDateTime=3195603434(Sat Jul 21 13:17:06 2018.246640734) : 
+(Sat Jul 21 13:17:06 2018.246640750) : Tried to delete instance but couldn't, return code: 0x80041003 for instance: 
+ (Sat Jul 21 13:17:06 2018.246640750) : WDMClassesOfDriver.ClassName="SystemConfig_V2_TelemetryInfo",Driver="C:\\WINDOWS\\system32\\en-US\\kernelbase.dll.mui[MofResourceName]",HighDateTime=30659180,LowDateTime=3195603434(Sat Jul 21 13:17:06 2018.246640750) : 
+(Sat Jul 21 13:17:06 2018.246640765) : Tried to delete instance but couldn't, return code: 0x80041003 for instance: 
+ (Sat Jul 21 13:17:06 2018.246640765) : WDMClassesOfDriver.ClassName="EventTraceEvent_V0",Driver="C:\\WINDOWS\\system32\\en-US\\kernelbase.dll.mui[MofResourceName]",HighDateTime=30659180,LowDateTime=3195603434(Sat Jul 21 13:17:06 2018.246640765) : 
+(Sat Jul 21 13:17:06 2018.246640765) : Tried to delete instance but couldn't, return code: 0x80041003 for instance: 
+ (Sat Jul 21 13:17:06 2018.246640765) : WDMClassesOfDriver.ClassName="MSNdis_80211_AddWEP",Driver="C:\\WINDOWS\\system32\\en-US\\kernelbase.dll.mui[MofResourceName]",HighDateTime=30659180,LowDateTime=3195603434(Sat Jul 21 13:17:06 2018.246640765) : 
+(Sat Jul 21 13:17:06 2018.246640781) : Tried to delete instance but couldn't, return code: 0x80041003 for instance: 
+ (Sat Jul 21 13:17:06 2018.246640781) : WDMClassesOfDriver.ClassName="SpinLockConfig_V2",Driver="C:\\WINDOWS\\system32\\en-US\\kernelbase.dll.mui[MofResourceName]",HighDateTime=30659180,LowDateTime=3195603434(Sat Jul 21 13:17:06 2018.246640781) : 
+(Sat Jul 21 13:17:06 2018.246640796) : Tried to delete instance but couldn't, return code: 0x80041003 for instance: 
+ (Sat Jul 21 13:17:06 2018.246640796) : WDMClassesOfDriver.ClassName="ISR_V1",Driver="C:\\WINDOWS\\system32\\en-US\\kernelbase.dll.mui[MofResourceName]",HighDateTime=30659180,LowDateTime=3195603434(Sat Jul 21 13:17:06 2018.246640796) : 
+(Sat Jul 21 13:17:06 2018.246640812) : Tried to delete instance but couldn't, return code: 0x80041003 for instance: 
+ (Sat Jul 21 13:17:06 2018.246640812) : WDMClassesOfDriver.ClassName="MSKeyboard_ExtendedID",Driver="C:\\WINDOWS\\system32\\en-US\\kernelbase.dll.mui[MofResourceName]",HighDateTime=30659180,LowDateTime=3195603434(Sat Jul 21 13:17:06 2018.246640812) : 
+(Sat Jul 21 13:17:06 2018.246640828) : Tried to delete instance but couldn't, return code: 0x80041003 for instance: 
+ (Sat Jul 21 13:17:06 2018.246640828) : WDMClassesOfDriver.ClassName="FileIo_V2_DirEnum",Driver="C:\\WINDOWS\\system32\\en-US\\kernelbase.dll.mui[MofResourceName]",HighDateTime=30659180,LowDateTime=3195603434(Sat Jul 21 13:17:06 2018.246640828) : 
+(Sat Jul 21 13:17:06 2018.246640843) : Tried to delete instance but couldn't, return code: 0x80041003 for instance: 
+ (Sat Jul 21 13:17:06 2018.246640843) : WDMClassesOfDriver.ClassName="SysCallEnter",Driver="C:\\WINDOWS\\system32\\en-US\\kernelbase.dll.mui[MofResourceName]",HighDateTime=30659180,LowDateTime=3195603434(Sat Jul 21 13:17:06 2018.246640843) : 
+(Sat Jul 21 13:17:06 2018.246640859) : Tried to delete instance but couldn't, return code: 0x80041003 for instance: 
+ (Sat Jul 21 13:17:06 2018.246640859) : WDMClassesOfDriver.ClassName="CSwitch_V4",Driver="C:\\WINDOWS\\system32\\en-US\\kernelbase.dll.mui[MofResourceName]",HighDateTime=30659180,LowDateTime=3195603434(Sat Jul 21 13:17:06 2018.246640859) : 
+(Sat Jul 21 13:17:06 2018.246640859) : Tried to delete instance but couldn't, return code: 0x80041003 for instance: 
+ (Sat Jul 21 13:17:06 2018.246640859) : WDMClassesOfDriver.ClassName="DriverMajorFunctionCall",Driver="C:\\WINDOWS\\system32\\en-US\\kernelbase.dll.mui[MofResourceName]",HighDateTime=30659180,LowDateTime=3195603434(Sat Jul 21 13:17:06 2018.246640859) : 
+(Sat Jul 21 13:17:06 2018.246640859) : Tried to delete instance but couldn't, return code: 0x80041003 for instance: 
+ (Sat Jul 21 13:17:06 2018.246640859) : WDMClassesOfDriver.ClassName="MSPower",Driver="C:\\WINDOWS\\system32\\en-US\\kernelbase.dll.mui[MofResourceName]",HighDateTime=30659180,LowDateTime=3195603434(Sat Jul 21 13:17:06 2018.246640859) : 
+(Sat Jul 21 13:17:06 2018.246640875) : Tried to delete instance but couldn't, return code: 0x80041003 for instance: 
+ (Sat Jul 21 13:17:06 2018.246640875) : WDMClassesOfDriver.ClassName="MSParallel",Driver="C:\\WINDOWS\\system32\\en-US\\kernelbase.dll.mui[MofResourceName]",HighDateTime=30659180,LowDateTime=3195603434(Sat Jul 21 13:17:06 2018.246640875) : 
+(Sat Jul 21 13:17:06 2018.246640890) : Tried to delete instance but couldn't, return code: 0x80041003 for instance: 
+ (Sat Jul 21 13:17:06 2018.246640890) : WDMClassesOfDriver.ClassName="MSNdis_CoMediaInUse",Driver="C:\\WINDOWS\\system32\\en-US\\kernelbase.dll.mui[MofResourceName]",HighDateTime=30659180,LowDateTime=3195603434(Sat Jul 21 13:17:06 2018.246640890) : 
+(Sat Jul 21 13:17:06 2018.246640906) : Tried to delete instance but couldn't, return code: 0x80041003 for instance: 
+ (Sat Jul 21 13:17:06 2018.246640906) : WDMClassesOfDriver.ClassName="SystemConfig_V2_FlightIds",Driver="C:\\WINDOWS\\system32\\en-US\\kernelbase.dll.mui[MofResourceName]",HighDateTime=30659180,LowDateTime=3195603434(Sat Jul 21 13:17:06 2018.246640906) : 
+(Sat Jul 21 13:17:06 2018.246640921) : Tried to delete instance but couldn't, return code: 0x80041003 for instance: 
+ (Sat Jul 21 13:17:06 2018.246640921) : WDMClassesOfDriver.ClassName="MSNdis_FddiLongMaximumListSize",Driver="C:\\WINDOWS\\system32\\en-US\\kernelbase.dll.mui[MofResourceName]",HighDateTime=30659180,LowDateTime=3195603434(Sat Jul 21 13:17:06 2018.246640921) : 
+(Sat Jul 21 13:17:06 2018.246640937) : Tried to delete instance but couldn't, return code: 0x80041003 for instance: 
+ (Sat Jul 21 13:17:06 2018.246640937) : WDMClassesOfDriver.ClassName="SystemConfig_V1_Power",Driver="C:\\WINDOWS\\system32\\en-US\\kernelbase.dll.mui[MofResourceName]",HighDateTime=30659180,LowDateTime=3195603434(Sat Jul 21 13:17:06 2018.246640937) : 
+(Sat Jul 21 13:17:06 2018.246640937) : Tried to delete instance but couldn't, return code: 0x80041003 for instance: 
+ (Sat Jul 21 13:17:06 2018.246640937) : WDMClassesOfDriver.ClassName="SampledProfileInterval_V3",Driver="C:\\WINDOWS\\system32\\en-US\\kernelbase.dll.mui[MofResourceName]",HighDateTime=30659180,LowDateTime=3195603434(Sat Jul 21 13:17:06 2018.246640937) : 
+(Sat Jul 21 13:17:06 2018.246640968) : Tried to delete instance but couldn't, return code: 0x80041003 for instance: 
+ (Sat Jul 21 13:17:06 2018.246640968) : WDMClassesOfDriver.ClassName="EventTrace_V1_Header",Driver="C:\\WINDOWS\\system32\\en-US\\kernelbase.dll.mui[MofResourceName]",HighDateTime=30659180,LowDateTime=3195603434(Sat Jul 21 13:17:06 2018.246640968) : 
+(Sat Jul 21 13:17:06 2018.246640968) : Tried to delete instance but couldn't, return code: 0x80041003 for instance: 
+ (Sat Jul 21 13:17:06 2018.246640968) : WDMClassesOfDriver.ClassName="WorkerThread_StartStop_V2",Driver="C:\\WINDOWS\\system32\\en-US\\kernelbase.dll.mui[MofResourceName]",HighDateTime=30659180,LowDateTime=3195603434(Sat Jul 21 13:17:06 2018.246640968) : 
+(Sat Jul 21 13:17:06 2018.246640984) : Tried to delete instance but couldn't, return code: 0x80041003 for instance: 
+ (Sat Jul 21 13:17:06 2018.246640984) : WDMClassesOfDriver.ClassName="UmsContextSwitch",Driver="C:\\WINDOWS\\system32\\en-US\\kernelbase.dll.mui[MofResourceName]",HighDateTime=30659180,LowDateTime=3195603434(Sat Jul 21 13:17:06 2018.246640984) : 
+(Sat Jul 21 13:17:06 2018.246641000) : Tried to delete instance but couldn't, return code: 0x80041003 for instance: 
+ (Sat Jul 21 13:17:06 2018.246641000) : WDMClassesOfDriver.ClassName="MSNdis_StatusProtocolUnbind",Driver="C:\\WINDOWS\\system32\\en-US\\kernelbase.dll.mui[MofResourceName]",HighDateTime=30659180,LowDateTime=3195603434(Sat Jul 21 13:17:06 2018.246641000) : 
+(Sat Jul 21 13:17:06 2018.246641000) : We have been requested to delete this instance:
+(Sat Jul 21 13:17:06 2018.246641000) : WMIBinaryMofResource.HighDateTime=30659180,LowDateTime=3195603434,Name="C:\\WINDOWS\\system32\\en-US\\kernelbase.dll.mui[MofResourceName]"(Sat Jul 21 13:17:06 2018.246641000) : 
+(Sat Jul 21 13:17:06 2018.246641000) : It failed with 0x80041003
+(Sat Jul 21 13:17:06 2018.246641015) : WDM call returned error: 4200
+(Sat Jul 21 13:17:06 2018.246641015) : WDM call returned error: 4200
+(Sat Jul 21 13:17:06 2018.246641015) : WDM call returned error: 4200
+(Sat Jul 21 13:17:06 2018.246641015) : WDM call returned error: 4200
+(Sat Jul 21 13:17:06 2018.246641015) : WDM call returned error: 4200
+(Sat Jul 21 13:17:06 2018.246641015) : WDM call returned error: 4200
+(Sat Jul 21 13:17:06 2018.246641031) : WDM call returned error: 4200
+(Sat Jul 21 13:17:06 2018.246641031) : WDM call returned error: 4200
+(Sat Jul 21 22:03:14 2018.278209265) : Received Event
+(Sat Jul 21 22:03:14 2018.278209484) : Received Event
+(Sat Jul 21 22:03:14 2018.278209656) : Received Event
+(Wed Jul 25 22:03:28 2018.24561765) : WDM call returned error: 4200
+(Wed Jul 25 22:03:28 2018.24561796) : WDM call returned error: 4200
+(Wed Jul 25 22:03:28 2018.24561812) : WDM call returned error: 4200
+(Wed Jul 25 22:03:28 2018.24561828) : WDM call returned error: 4200
+(Wed Jul 25 22:03:28 2018.24561828) : WDM call returned error: 4200
+(Wed Jul 25 22:03:28 2018.24561843) : WDM call returned error: 4200
+(Wed Jul 25 22:03:28 2018.24561843) : WDM call returned error: 4200
+(Wed Jul 25 22:03:28 2018.24561859) : WDM call returned error: 4200
+(Thu Jul 26 22:24:22 2018.112213171) : WDM call returned error: 4200
+(Thu Jul 26 22:24:22 2018.112213203) : WDM call returned error: 4200
+(Thu Jul 26 22:24:22 2018.112213203) : WDM call returned error: 4200
+(Thu Jul 26 22:24:22 2018.112213218) : WDM call returned error: 4200
+(Thu Jul 26 22:24:22 2018.112213218) : WDM call returned error: 4200
+(Thu Jul 26 22:24:22 2018.112213218) : WDM call returned error: 4200
+(Thu Jul 26 22:24:22 2018.112213218) : WDM call returned error: 4200
+(Thu Jul 26 22:24:22 2018.112213218) : WDM call returned error: 4200
+(Sun Jul 29 03:54:28 2018.304819921) : WDM call returned error: 4200
+(Sun Jul 29 03:54:28 2018.304819953) : WDM call returned error: 4200
+(Sun Jul 29 03:54:28 2018.304819953) : WDM call returned error: 4200
+(Sun Jul 29 03:54:28 2018.304819968) : WDM call returned error: 4200
+(Sun Jul 29 03:54:28 2018.304819968) : WDM call returned error: 4200
+(Sun Jul 29 03:54:28 2018.304819968) : WDM call returned error: 4200
+(Sun Jul 29 03:54:28 2018.304819984) : WDM call returned error: 4200
+(Sun Jul 29 03:54:28 2018.304819984) : WDM call returned error: 4200
+(Sun Jul 29 04:54:28 2018.308419734) : WDM call returned error: 4200
+(Sun Jul 29 04:54:28 2018.308419734) : WDM call returned error: 4200
+(Sun Jul 29 04:54:28 2018.308419734) : WDM call returned error: 4200
+(Sun Jul 29 04:54:28 2018.308419734) : WDM call returned error: 4200
+(Sun Jul 29 04:54:28 2018.308419734) : WDM call returned error: 4200
+(Sun Jul 29 04:54:28 2018.308419750) : WDM call returned error: 4200
+(Sun Jul 29 04:54:28 2018.308419750) : WDM call returned error: 4200
+(Sun Jul 29 04:54:28 2018.308419750) : WDM call returned error: 4200
+(Fri Aug 03 20:40:04 2018.797155546) : WDM call returned error: 4200
+(Fri Aug 03 20:40:04 2018.797155562) : WDM call returned error: 4200
+(Fri Aug 03 20:40:04 2018.797155578) : WDM call returned error: 4200
+(Fri Aug 03 20:40:04 2018.797155578) : WDM call returned error: 4200
+(Fri Aug 03 20:40:04 2018.797155578) : WDM call returned error: 4200
+(Fri Aug 03 20:40:04 2018.797155578) : WDM call returned error: 4200
+(Fri Aug 03 20:40:04 2018.797155578) : WDM call returned error: 4200
+(Fri Aug 03 20:40:04 2018.797155578) : WDM call returned error: 4200
+(Sat Aug 04 12:32:00 2018.854271187) : WDM call returned error: 4200
+(Sat Aug 04 12:32:00 2018.854271203) : WDM call returned error: 4200
+(Sat Aug 04 12:32:00 2018.854271203) : WDM call returned error: 4200
+(Sat Aug 04 12:32:00 2018.854271234) : WDM call returned error: 4200
+(Sat Aug 04 12:32:00 2018.854271250) : WDM call returned error: 4200
+(Sat Aug 04 12:32:00 2018.854271250) : WDM call returned error: 4200
+(Sat Aug 04 12:32:00 2018.854271250) : WDM call returned error: 4200
+(Sat Aug 04 12:32:00 2018.854271250) : WDM call returned error: 4200
+(Sat Aug 04 16:32:00 2018.868671359) : WDM call returned error: 4200
+(Sat Aug 04 16:32:00 2018.868671375) : WDM call returned error: 4200
+(Sat Aug 04 16:32:00 2018.868671390) : WDM call returned error: 4200
+(Sat Aug 04 16:32:00 2018.868671390) : WDM call returned error: 4200
+(Sat Aug 04 16:32:00 2018.868671390) : WDM call returned error: 4200
+(Sat Aug 04 16:32:00 2018.868671390) : WDM call returned error: 4200
+(Sat Aug 04 16:32:00 2018.868671406) : WDM call returned error: 4200
+(Sat Aug 04 16:32:00 2018.868671406) : WDM call returned error: 4200
+(Sun Aug 05 17:27:22 2018.958390109) : WDM call returned error: 4200
+(Sun Aug 05 17:27:22 2018.958390125) : WDM call returned error: 4200
+(Sun Aug 05 17:27:22 2018.958390125) : WDM call returned error: 4200
+(Sun Aug 05 17:27:22 2018.958390140) : WDM call returned error: 4200
+(Sun Aug 05 17:27:22 2018.958390140) : WDM call returned error: 4200
+(Sun Aug 05 17:27:22 2018.958390140) : WDM call returned error: 4200
+(Sun Aug 05 17:27:22 2018.958390140) : WDM call returned error: 4200
+(Sun Aug 05 17:27:22 2018.958390140) : WDM call returned error: 4200
+(Sun Aug 05 18:57:24 2018.963792328) : WDM call returned error: 4200
+(Sun Aug 05 18:57:24 2018.963792328) : WDM call returned error: 4200
+(Sun Aug 05 18:57:24 2018.963792328) : WDM call returned error: 4200
+(Sun Aug 05 18:57:24 2018.963792328) : WDM call returned error: 4200
+(Sun Aug 05 18:57:24 2018.963792328) : WDM call returned error: 4200
+(Sun Aug 05 18:57:24 2018.963792343) : WDM call returned error: 4200
+(Sun Aug 05 18:57:24 2018.963792343) : WDM call returned error: 4200
+(Sun Aug 05 18:57:24 2018.963792359) : WDM call returned error: 4200
+(Sat Aug 18 11:00:09 2018.46725296) : WDM call returned error: 4200
+(Sat Aug 18 11:00:09 2018.46725312) : WDM call returned error: 4200
+(Sat Aug 18 11:00:09 2018.46725312) : WDM call returned error: 4200
+(Sat Aug 18 11:00:09 2018.46725312) : WDM call returned error: 4200
+(Sat Aug 18 11:00:09 2018.46725328) : WDM call returned error: 4200
+(Sat Aug 18 11:00:09 2018.46725328) : WDM call returned error: 4200
+(Sat Aug 18 11:00:09 2018.46725328) : WDM call returned error: 4200
+(Sat Aug 18 11:00:09 2018.46725328) : WDM call returned error: 4200

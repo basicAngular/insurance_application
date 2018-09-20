@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<oobe>
+	<oemdata>
+		<checkbox1>
+			<label>Use my information to register my McAfee security subscription, receive subscription expiration email reminders and a digital subscription key card to protect multiple devices.</label>
+			<value>true</value>
+		</checkbox1>
+		<customerinfo>
+			<label>My information is correct.</label>
+			<value>true</value>
+		</customerinfo>
+	</oemdata>
+</oobe>
